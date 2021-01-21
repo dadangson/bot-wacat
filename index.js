@@ -12,10 +12,13 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'BOT Rem'; // Nama Bot Whatsapp
+const BotName = 'BOT /.Rem'; // Nama Bot Whatsapp
+const instagramlu = '-'; // Nama Instagramlu cok
 const whatsapplu = '0815-5175-319'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/DlTKg18FJAvAwG5sBTT0cP'; // OFFICIAL GRUP LU 1
+const grupch2 = '-'; // OFFICIAL GRUP LU 2
+//
 const
 {
    WAConnection,
